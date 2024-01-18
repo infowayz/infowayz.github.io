@@ -1,6 +1,6 @@
-baseURL = 'https://blog.satyatanwar.com'
+baseURL = 'https://blog.infowayz.com'
 languageCode = 'en-us'
-title = "Satya Tanwar - On Tech And Life"
+title = "infowayz technologies"
 theme = 'mainroad'
 enableEmoji = true
 googleAnalytics = "G-T0R2BM925T"  # Get this Tracking-ID from your google analytics account
@@ -76,7 +76,7 @@ googleAnalytics = "G-T0R2BM925T"  # Get this Tracking-ID from your google analyt
 
 [Params]
   description = "Satya Tanwar's Tech & Social Blog." # Site description. Used in meta description
-  copyright = "satyatanwar.com" # Footer copyright holder, otherwise will use site title
+  copyright = "infowayz technologies" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   tags = false # show tags on each post
   schema = true # Enable Schema
@@ -119,13 +119,13 @@ googleAnalytics = "G-T0R2BM925T"  # Get this Tracking-ID from your google analyt
 
 [Params.logo]
   image = "img/logo.png" # Logo image. Path relative to "static"
-  title = "On Tech and Life" # Logo title, otherwise will use site title
-  subtitle = "Satya Tanwar's Opinionated Blog" # Logo subtitle
+  title = "Pathway to Innovate & Succeed" # Logo title, otherwise will use site title
+  subtitle = "infowayz's Opinionated Blog" # Logo subtitle
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
   list = "right"  # Configure layout for list pages
-  single = "right"  # Configure layout for single pages
+  single = "right"  # Configeure layout for single pages
   # Enable widgets in given order
   widgets = ["social", "recent", "categories", "taglist",]
   #widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
