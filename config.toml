@@ -66,16 +66,8 @@ googleAnalytics = "G-T0R2BM925T"  # Get this Tracking-ID from your google analyt
 
 #menu items
 
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
-
-
 [Params]
-  description = "Satya Tanwar's Tech & Social Blog." # Site description. Used in meta description
+  description = "Infowayz's Tech & Social Blog." # Site description. Used in meta description
   copyright = "infowayz technologies" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   tags = false # show tags on each post
@@ -102,8 +94,8 @@ googleAnalytics = "G-T0R2BM925T"  # Get this Tracking-ID from your google analyt
   visibility = ["list"]
 
 [Author] # Used in authorbox
-  name = "Satya Tanwar"
-  bio = "Satya Tanwar has 15+ years in Technology Development and core expertise in the area of application architecture, cloud computing and container based app development."
+  name = "infowayz"
+  bio = ""
   avatar = "img/logo.png"
 
 
@@ -119,8 +111,8 @@ googleAnalytics = "G-T0R2BM925T"  # Get this Tracking-ID from your google analyt
 
 [Params.logo]
   image = "img/logo.png" # Logo image. Path relative to "static"
-  title = "Pathway to Innovate & Succeed" # Logo title, otherwise will use site title
-  subtitle = "infowayz's Opinionated Blog" # Logo subtitle
+  title = "INFOWAYZ TECHNILOGIES" # Logo title, otherwise will use site title
+  subtitle = "                      " # Logo subtitle
 
 [Params.sidebar]
   home = "right" # Configure layout for home page

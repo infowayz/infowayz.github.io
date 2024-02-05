@@ -6,7 +6,7 @@ post_meta: false
 authorbox: false 
 menu: 
   main:
-    name: Technology
+    name: 
     weight: 50
 ---
 
